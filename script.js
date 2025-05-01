@@ -1,0 +1,1 @@
+console.log('Site da LMS Connect Express carregado com sucesso!');
